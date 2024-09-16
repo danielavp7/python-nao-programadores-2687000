@@ -14,3 +14,11 @@ print (divisao)
 print ('Paloma'*2)
 # Realize uma operação entre dados do tipo inteiro e float
 print(2*1.3)
+decimal=3.75
+print (decimal)
+print (int(decimal))
+round (decimal,1)
+round (decimal,0)
+nome="sofia"
+print (nome*3)
+print (f"Hoje Paloma estudou {3+1} horas.")
